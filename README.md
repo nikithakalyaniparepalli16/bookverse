@@ -31,21 +31,6 @@ The website is fully responsive and optimized for:
 * Tablet
 * Mobile Phones
 
-📂 Project Structure
-BookVerse/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── books.png
-├── atomic.png
-├── deep.png
-├── rich.png
-├── alchemist.png
-├── ikigai.png
-└── psychology.png
-```
 
 🚀 Live Demo
 
