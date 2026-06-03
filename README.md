@@ -2,7 +2,9 @@
 BookVerse is a modern and responsive online bookstore website built using HTML, CSS, and JavaScript. It provides users with an elegant platform to explore books across multiple categories, discover featured titles, and enjoy a seamless reading-inspired experience.
 
 ✨ Features
-.Responsive design for desktop, tablet, and mobile devices
+
+.Responsive design for desktop, tablet, and mobile device
+
 .Modern navigation bar with search functionality
 .Attractive hero section with statistics
 .Book categories section
