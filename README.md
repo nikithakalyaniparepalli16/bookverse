@@ -38,6 +38,10 @@ Visit the live website:
 
 https://nikithakalyaniparepalli16.github.io/bookverse/
 
+⭐ Acknowledgements
+
+This project was created as part of frontend web development practice to improve skills in responsive design, UI development, and JavaScript interactivity.
+
  👩‍💻 Developed by
 
 Nikitha Kalyani
