@@ -16,4 +16,5 @@ A responsive online bookstore landing page built using HTML, CSS, and JavaScript
 - JavaScript
 
 ## Live Demo
-(Paste your deployed URL here)
+
+https://nikithakalyaniparepalli16.github.io/bookverse/
