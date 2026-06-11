@@ -36,7 +36,7 @@ The website is fully responsive and optimized for:
 
 Visit the live website:
 
-https://nikithakalyaniparepalli16.github.io/bookverse/
+https://nikithakalyaniparepalli16.github.io/task-1-nikithakalyaniparepalli/
 
 ⭐ Acknowledgements
 
